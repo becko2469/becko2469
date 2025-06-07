@@ -1,0 +1,17 @@
+.header-top {
+    background-color: black;
+    height: 48px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    justify-content: center;
+display: inline;
+}
+.header__text{
+justify-content: center;
+}
+.header__link{
+    text-decoration: none;
+}
